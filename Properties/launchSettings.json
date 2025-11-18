@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "azurefunctionapp": {
+    "tnk_azurefunctionapp": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7074",
+      "commandLineArgs": "--port 7170",
       "launchBrowser": false
     }
   }
